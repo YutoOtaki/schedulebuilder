@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
         appBar: GradientAppBar(
-            title: Text("Schedule Picker"),
+            title: Text("Schedule Builder"),
             /*
             leading: IconButton(
               icon: Icon(
